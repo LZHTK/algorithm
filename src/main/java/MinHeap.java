@@ -32,5 +32,4 @@ public class MinHeap {
         bw.close();
         br.close();
     }
-
 }
